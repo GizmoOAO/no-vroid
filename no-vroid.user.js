@@ -5,6 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      GizmoOAO
+// @license     MIT
 // @description No VRoid pls
 // ==/UserScript==
 (function () {
