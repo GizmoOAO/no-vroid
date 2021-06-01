@@ -16,6 +16,8 @@ BOOTH 上搜索 VRChat 相关的商品时, 总会冒出一堆 VRoid 的商品.
 
 [Install from GtiHub](https://raw.githubusercontent.com/GizmoOAO/no-vroid/main/no-vroid.user.js)
 
+[Install from GreasyFork](https://greasyfork.org/scripts/427336-no-vroid/code/No%20VRoid.user.js)
+
 ## License
 
 Code is distributed under MIT license, feel free to use it in your proprietary projects as well.
