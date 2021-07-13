@@ -2,8 +2,9 @@
 // @name        No VRoid
 // @namespace   https://github.com/GizmoOAO/no-vroid
 // @match       https://booth.pm/*/search/*
+// @match       https://booth.pm/*/browse/*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      GizmoOAO
 // @license     MIT
 // @description No VRoid pls
